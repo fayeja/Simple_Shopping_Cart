@@ -1,1 +1,2 @@
 # Simple_Shopping_Cart
+The Simple Shopping Cart with JavaScript for Phones and Phone Cases is a user-friendly web application that allows customers to browse, select, and purchase mobile phones and corresponding phone cases. This project is designed to provide a hands-on learning experience for JavaScript enthusiasts while demonstrating the implementation of a basic e-commerce platform with value-added tax (VAT) calculations.
